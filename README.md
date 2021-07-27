@@ -1,6 +1,6 @@
 # Bookstore
 基于servlet的网上图书商城
-不知不觉两个月时间过去了,对着b站学习JavaWeb的时光也接近了尾声
+不知不觉两个月时间过去了,4月份终于看完了JavaWeb课程,到了暑假有时间整理下这个项目.
 
 此项目是尚硅谷Javaweb的学习视频项目----尚硅谷网上书城 视频网址:https://www.bilibili.com/video/BV1Y7411K7zz?p=1 喜欢的同学可以跟着学习哦.
 
@@ -14,7 +14,5 @@
    使用到了:HTML5、JQuery、JavaScript、cookie、session、servlet、数据库连接池、谷歌验证码、ajax、json等等一些很古老的技术
   
   320多集终于看完啦，谢谢国哥的精彩课程，国哥最帅！！！！！！！！！
-  
-                                                            END——2021.7/27 19:12
 																				
 接下来要学习Mybatis以及框架的东西了,加油!!!!!!机房不止你一人在战斗!!!!争取10月份拿下offer!!!!
